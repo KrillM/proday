@@ -16,3 +16,6 @@ local.properties
 build/
 dist/
 .vscode/
+
+#SQL 코드
+/proday.sql
