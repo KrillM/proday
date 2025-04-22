@@ -1,0 +1,18 @@
+# 디폴트 무시된 파일
+/shelf/
+/workspace.xml
+
+# 🍎 macOS
+.DS_Store
+
+# 🧠 IntelliJ / Android
+.idea/
+*.iml
+.gradle/
+local.properties
+
+# ⚙️ 공통 로그 & 빌드
+*.log
+build/
+dist/
+.vscode/
